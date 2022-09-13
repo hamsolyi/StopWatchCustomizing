@@ -10,4 +10,4 @@ github & GitHub Desktop is very good!!
 
 this is main branch top top top main!!!
 
-'subproject' also important, but 'main' more important. :) 
+'subproject' also important, but 'main' more important. :)
